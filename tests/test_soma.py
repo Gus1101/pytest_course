@@ -1,5 +1,3 @@
-import pytest
-
 def test_soma():
     """
     Função para testar a soma entre dois valores inteiros
