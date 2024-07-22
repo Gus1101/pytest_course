@@ -7,4 +7,4 @@ def test_is_positive():
 	"""
 
 	x = is_positive(5) is True
-	return x
+	assert x
