@@ -2,3 +2,4 @@ poetry.lock
 .venv
 __init__.py
 .gitignore
+\__pycache__
